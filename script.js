@@ -291,8 +291,8 @@ const stations = {
 
     Jura: {
         "A découvrir bientôt !": {
-            lat: _,
-            lon: _,
+            lat: 0.0,
+            lon: 0.0,
             url: "",
             webcam: "",
             plan: "",
